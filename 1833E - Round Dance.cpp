@@ -2,6 +2,7 @@
 // 1833E - Round Dance (1600)
 // 2024-01-24
 // Time Taken: 1h
+
 // Personal Boilerplate
 #include <iostream>
 #include <algorithm>
@@ -10,8 +11,7 @@
 #include <climits>
 
 #define repeat(x, vn) for (int vn = 0; vn < x; vn++)
-#define debug(x) cout << x << "
-"
+#define debug(x) cout << x << "\n"
 
 using namespace std;
 int testcases = 1;
@@ -51,8 +51,7 @@ void solve() {
         direct[i] = par-1;
     }
     cout << loopcount + (nonloopsets > 0 ? 1 : 0) << " " << loopcount + nonloopsets;
-    cout << "
-";
+    cout << "\n";
 }
 
 int main() {
