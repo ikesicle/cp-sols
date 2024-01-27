@@ -1,5 +1,5 @@
 // (c) Ike Yang 2024
-// 1833E - Round Dance (1600)
+// 1833E - Round Dance (1600) on Codeforces
 // 2024-01-24
 // Time Taken: 1h
 

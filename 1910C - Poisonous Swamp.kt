@@ -1,5 +1,5 @@
 // (c) Ike Yang 2024
-// 1910C - Poisonous Swamp (1600)
+// 1910C - Poisonous Swamp (1600) on Codeforces
 // 2024-01-25
 // Time Taken: 30m
 

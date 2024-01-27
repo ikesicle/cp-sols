@@ -1,5 +1,5 @@
 // (c) Ike Yang 2024
-// 1921E - Eat the Chip (1600)
+// 1921E - Eat the Chip (1600) on Codeforces
 // 2024-01-26
 // Time Taken: 30m
 
